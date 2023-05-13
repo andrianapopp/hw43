@@ -1,0 +1,26 @@
+{
+  "name": "hw43",
+  "version": "1.0.0",
+  "description": "Написать функцию createTable(), которая выводит таблицу 10 × 10, заполненную числами от 1 до 100.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrianapopp/hw43.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrianapopp/hw43/issues"
+  },
+  "homepage": "https://github.com/andrianapopp/hw43#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
